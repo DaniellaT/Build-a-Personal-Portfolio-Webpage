@@ -1,0 +1,30 @@
+.container {
+  margin-top: 3%;
+}
+.jumbotron {
+  background-color: #CEECF5;
+}
+.navbar {
+  background-color: #BDBDBD;
+}
+
+.navbar-fixed-top .navbar-right {
+  margin-right: 360px;
+}
+
+footer .navbar-left {
+  margin-left: 370px;
+}
+
+footer .navbar-right {
+  margin-right: 370px;
+}
+
+.navbar-static-bottom {
+  margin-bottom: -100px;
+}
+
+ul a {
+  font-size: 23px;
+  color: #CEECF5;
+}
